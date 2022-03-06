@@ -9,7 +9,7 @@
   "version": "1.0.0",
   "main": "hello.js",
   "scripts": {
-    "start": "npx nodemon -e js,html hello.js"
+    "start": "npx nodemon -e js,html server.js"
   },
   "keywords": [],
   "author": "",
